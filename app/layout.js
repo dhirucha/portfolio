@@ -1,11 +1,11 @@
-import { Outfit, Outfit, Ovo, Ovo } from "next/font/google";
+import { Outfit as OutfitFont, Ovo as OvoFont } from "next/font/google";
 import "./globals.css";
 
-const Outfit = Outfit({
+const Outfit = OutfitFont({
   subsets: ["latin"], weight: ["400", "500", "600", "700"]
 });
 
-const Ovo = Ovo({
+const Ovo = OvoFont({
   subsets: ["latin"], weight: ["400"]
 });
 
