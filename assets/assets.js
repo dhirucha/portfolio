@@ -36,6 +36,12 @@ import send_icon from './send-icon.png';
 import right_arrow_bold from './right-arrow-bold.png';
 import right_arrow_bold_dark from './right-arrow-bold-dark.png';
 
+import work1 from './work-1.png';
+import work2 from './work-2.png';
+import work3 from './work-3.png';
+import work4 from './work-4.png';
+
+
 export const assets = {
     user_image,
     code_icon,
